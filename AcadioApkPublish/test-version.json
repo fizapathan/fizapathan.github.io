@@ -1,7 +1,7 @@
 {
     "versionName": "1.9.1",
     "apkUrl": "https://fizapathan.github.io/AcadioApkPublish/Acadio-191.apk",
-    "forceUpdate": false,
+    "forceUpdate": true,
     "whatsNew": "<< what changes the app update will bring >>",
     "showPopUp": false
 }
